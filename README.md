@@ -15,9 +15,9 @@
   
   Also on the inventory activity are floating buttons.
   
-  The first floating button navigates the user to an activity for adding items: again, EditText widgets accept input and there is a button for each of adding the items and navigating back to the inventory view.
+  The first floating button navigates the user to the screen where they are prompted to decide whether to turn on SMS notifications for out-of-stock items (yet unimplemented). The user may select "Yes" (unhandled) or "No" to navigate back to the inventory screen.
   
-  The second floating button navigates the user to the screen where they are prompted to decide whether to turn on SMS notifications for out-of-stock items (yet unimplemented). The user may select "Yes" (unhandled) or "No" to navigate back to the inventory screen.
+  The second floating button button navigates the user to an activity for adding items: again, EditText widgets accept input and there is a button for each of adding the items and navigating back to the inventory view.
 
   I intended for this application to be intuitive to navigate and unintimidating to users who may not be tech savvy. I believe clearly-labeled buttons, minimal navigation requirements, and unambiguous toast messages help this app accomplish these goals.
     
